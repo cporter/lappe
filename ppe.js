@@ -8,6 +8,7 @@ var map = new mapboxgl.Map({
 });
 
 var props = {
+    'total_beds': {},
     'n95_masks' : {},
     'PAPR_hoods': {},
     'face_shields': {},
